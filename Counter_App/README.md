@@ -8,11 +8,15 @@ This app allows you to increment, decrement, and reset a counter with a custom s
 ## ✨ Features
 
 - ➕ **Increment** the counter by a custom step size.
+
 - ➖ **Decrement** the counter safely (no negative values).
+
 - 🔄 **Reset** the counter back to zero.
+
 - ⚠️ Warning messages when:
   - Trying to exceed the maximum value (`100`).
   - Trying to go below the minimum value (`0`).
+
 - 🎨 Styled with **TailwindCSS** for a clean and modern UI.
 
 ---
